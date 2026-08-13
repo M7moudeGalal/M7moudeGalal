@@ -1,16 +1,34 @@
-## Hi there 👋
+┌──────────────────────────────────────────────┐
+│                                              │
+│              MAHMOUD GALAL                  │
+│        Computer Science Student              │
+│      Software Development | AI | Cloud       │
+│                                              │
+└──────────────────────────────────────────────┘
 
-<!--
-**M7moudeGalal/M7moudeGalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME
 
-Here are some ideas to get you started:
+CURRENTLY WORKING ON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CURRENTLY LEARNING
+
+TECH STACK
+Python  Java  C++  JS  TS
+React   Node   MySQL
+AWS     Docker Git Linux
+
+FEATURED PROJECTS
+
+┌──────────────┐ ┌──────────────┐
+│     CRSM     │ │    PINGO     │
+└──────────────┘ └──────────────┘
+
+┌──────────────┐ ┌──────────────┐
+│ Crypto System│ │ Task Manager │
+└──────────────┘ └──────────────┘
+
+GITHUB STATS
+
+CONTRIBUTIONS
+
+CONNECT WITH ME
